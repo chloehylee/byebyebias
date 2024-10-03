@@ -1,0 +1,5 @@
+.venv
+/backend/main/migrations/
+/backend/main/__pycache__/
+backend/main/db.sqlite3
+db.sqlite3
